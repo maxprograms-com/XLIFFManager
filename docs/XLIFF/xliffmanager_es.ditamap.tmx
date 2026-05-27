@@ -54,10 +54,10 @@
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="-644710003-0-54" creationdate="20260302T143738Z">
 <tuv xml:lang="en" creationdate="20260302T143738Z">
-<seg>Source code of XLIFF Manager is free. Anyone can download the source code from <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</ph>Github.com<ph x="49">&lt;/xref&gt;</ph>, compile, modify and use it at no cost in compliance with the accompanying license terms.</seg>
+<seg>Source code of XLIFF Manager is free. Anyone can download the source code from <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</ph>Github.com<ph x="49">&lt;/xref&gt;</ph>, compile, modify and use it at no cost in compliance with the accompanying license terms.</seg>
 </tuv>
 <tuv xml:lang="es" creationdate="20260302T143738Z">
-<seg>El código fuente de XLIFF Manager es gratuito. Cualquiera puede descargar el código fuente de <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</ph>Github.com<ph x="49">&lt;/xref&gt;</ph>, compilarlo, modificarlo y utilizarlo sin coste alguno respetando los términos de la licencia adjunta.</seg>
+<seg>El código fuente de XLIFF Manager es gratuito. Cualquiera puede descargar el código fuente de <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</ph>Github.com<ph x="49">&lt;/xref&gt;</ph>, compilarlo, modificarlo y utilizarlo sin coste alguno respetando los términos de la licencia adjunta.</seg>
 </tuv>
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="-644710003-0-55" creationdate="20260302T143738Z">
@@ -614,18 +614,18 @@
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="951711876-2-1636" creationdate="20260302T143738Z">
 <tuv xml:lang="en" creationdate="20260302T143738Z">
-<seg>The XML filter is customizable. Users can define conversion rules for almost any XML vocabulary. Instructions for configuring the XML filter are available on GitHub, at <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>XLIFF Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
+<seg>The XML filter is customizable. Users can define conversion rules for almost any XML vocabulary. Instructions for configuring the XML filter are available on GitHub, at <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>XLIFF Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
 </tuv>
 <tuv xml:lang="es" creationdate="20260302T143738Z">
-<seg>El filtro XML es personalizable. Los usuarios pueden definir reglas de conversión para casi cualquier vocabulario XML. Las instrucciones para configurar el filtro XML están disponibles en GitHub, en <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>XLIFF Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
+<seg>El filtro XML es personalizable. Los usuarios pueden definir reglas de conversión para casi cualquier vocabulario XML. Las instrucciones para configurar el filtro XML están disponibles en GitHub, en <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>XLIFF Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
 </tuv>
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="951711876-2-1637" creationdate="20260302T143738Z">
 <tuv xml:lang="en" creationdate="20260302T143738Z">
-<seg>The JSON filter supports user-defined configuration files. Instructions for writing configuration files are available on GitHub, at <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</ph>JSON Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
+<seg>The JSON filter supports user-defined configuration files. Instructions for writing configuration files are available on GitHub, at <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</ph>JSON Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
 </tuv>
 <tuv xml:lang="es" creationdate="20260302T143738Z">
-<seg>El filtro JSON admite archivos de configuración definidos por el usuario. Las instrucciones para escribir archivos de configuración están disponibles en GitHub, en <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</ph>JSON Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
+<seg>El filtro JSON admite archivos de configuración definidos por el usuario. Las instrucciones para escribir archivos de configuración están disponibles en GitHub, en <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</ph>JSON Filter Configuration Files<ph x="49">&lt;/xref&gt;</ph>.</seg>
 </tuv>
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="460075171-3-49" creationdate="20260302T143738Z">
@@ -638,10 +638,10 @@
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="460075171-3-50" creationdate="20260302T143738Z">
 <tuv xml:lang="en" creationdate="20260302T143738Z">
-<seg>XLIFF Manager provides an open source UI for <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</ph>OpenXLIFF Filters<ph x="49">&lt;/xref&gt;</ph>, a set of programs that let you:</seg>
+<seg>XLIFF Manager provides an open source UI for <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</ph>OpenXLIFF Filters<ph x="49">&lt;/xref&gt;</ph>, a set of programs that let you:</seg>
 </tuv>
 <tuv xml:lang="es" creationdate="20260302T143738Z">
-<seg>XLIFF Manager proporciona una interfaz de usuario de código abierto para <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</ph>OpenXLIFF Filters<ph x="49">&lt;/xref&gt;</ph>, un conjunto de programas que le permiten:</seg>
+<seg>XLIFF Manager proporciona una interfaz de usuario de código abierto para <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</ph>OpenXLIFF Filters<ph x="49">&lt;/xref&gt;</ph>, un conjunto de programas que le permiten:</seg>
 </tuv>
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="460075171-3-51" creationdate="20260302T143738Z">
@@ -1086,10 +1086,10 @@
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="76442477-14-1571" creationdate="20260302T143738Z">
 <tuv xml:lang="en" creationdate="20260302T143738Z">
-<seg>Information on configuration files for the JSON filter is available at <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>https://github.com/rmraya/OpenXLIFF<ph x="49">&lt;/xref&gt;</ph></seg>
+<seg>Information on configuration files for the JSON filter is available at <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>https://github.com/maxprograms-com/OpenXLIFF<ph x="49">&lt;/xref&gt;</ph></seg>
 </tuv>
 <tuv xml:lang="es" creationdate="20260302T143738Z">
-<seg>En <ph type="x-link" x="48">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>https://github.com/rmraya/OpenXLIFF<ph x="49">&lt;/xref&gt;</ph> hay información sobre los archivos de configuración para el filtro JSON.</seg>
+<seg>En <ph type="x-link" x="48">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</ph>https://github.com/maxprograms-com/OpenXLIFF<ph x="49">&lt;/xref&gt;</ph> hay información sobre los archivos de configuración para el filtro JSON.</seg>
 </tuv>
 </tu>
 <tu creationtool="OpenXLIFF Filters" creationtoolversion="4.5.0" tuid="76442477-14-1572" creationdate="20260302T143738Z">

@@ -45,7 +45,7 @@
       <step>
         <cmd>Si está convirtiendo un documento JSON y necesita usar un archivo de configuración personalizado, escriba su nombre y ubicación en el cuadro de texto <uicontrol>Configuración de JSON</uicontrol> o use el botón <uicontrol>Examinar...</uicontrol> junto a él para seleccionar un archivo del sistema de archivos.</cmd>
         <info>
-          <note type="tip">En <xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" format="html">https://github.com/rmraya/OpenXLIFF</xref> hay información sobre los archivos de configuración para el filtro JSON.</note>
+          <note type="tip">En <xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" format="html">https://github.com/maxprograms-com/OpenXLIFF</xref> hay información sobre los archivos de configuración para el filtro JSON.</note>
         </info>
       </step>
       <step>

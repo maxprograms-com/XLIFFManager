@@ -8,10 +8,10 @@ Localizing XLIFF Manager requires processing 4 types of files:
 
 XLIFF Manager uses code from these additional projects:
 
-- [OpenXLIFF Filters](https://github.com/rmraya/OpenXLIFF)  
-- [XMLJava](https://github.com/rmraya/XMLJava)
-- [BCP47J](https://github.com/rmraya/BCP47J)
-- [TypesBCP47](https://github.com/rmraya/TypesBCP47)
+- [OpenXLIFF Filters](https://github.com/maxprograms-com/OpenXLIFF)  
+- [XMLJava](https://github.com/maxprograms-com/XMLJava)
+- [BCP47J](https://github.com/maxprograms-com/BCP47J)
+- [TypesBCP47](https://github.com/maxprograms-com/TypesBCP47)
 
 It is important to localize those projects and include localized versions of the libraries in the XLIFF Manager project for proper display of error messages and other user interface elements, like language names.
 

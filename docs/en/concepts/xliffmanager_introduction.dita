@@ -4,7 +4,7 @@
     <title>Introduction</title>
     <conbody>
         <p>XLIFF Manager provides an open source UI for <xref
-                href="https://github.com/rmraya/OpenXLIFF" format="html" scope="external">OpenXLIFF
+                href="https://github.com/maxprograms-com/OpenXLIFF" format="html" scope="external">OpenXLIFF
                 Filters</xref>, a set of programs that let you:</p>
         <ul id="ul_lbj_mm1_l3b">
             <li>Create <xref href="../glossaries/XLIFF.dita">XLIFF</xref> 1.2, 2.0, 2.1 and 2.2

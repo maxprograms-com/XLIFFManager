@@ -64,8 +64,8 @@
         <info>
           <note type="tip">Information on configuration files for the JSON filter is available at
               <xref
-              href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme"
-              format="html" scope="external">https://github.com/rmraya/OpenXLIFF</xref></note>
+              href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme"
+              format="html" scope="external">https://github.com/maxprograms-com/OpenXLIFF</xref></note>
         </info>
       </step>
       <step>

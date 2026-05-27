@@ -158,7 +158,7 @@ YWJsZT4gPC9zZWN0aW9uPiA8L2NvbmJvZHk+IDwvY29uY2VwdD4=</skeleton>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;xref href="https://github.com/rmraya/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph0">&lt;xref href="https://github.com/maxprograms-com/XLIFFManager" scope="external" class="- topic/xref " format="html"&gt;</data>
         <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="final" id="6">
@@ -817,7 +817,7 @@ JSU8L3A+IDwvY29uYm9keT4gPC9jb25jZXB0Pg==</skeleton>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph0">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/xml#readme" scope="external" class="- topic/xref " format="html"&gt;</data>
         <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="final" id="37">
@@ -832,7 +832,7 @@ JSU8L3A+IDwvY29uYm9keT4gPC9jb25jZXB0Pg==</skeleton>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;xref href="https://github.com/rmraya/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph0">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/blob/master/src/com/maxprograms/converters/json/README.md" scope="external" class="- topic/xref " format="html"&gt;</data>
         <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="final" id="38">
@@ -903,7 +903,7 @@ WGxpZmYucG5nIn0=</mda:meta>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;xref href="https://github.com/rmraya/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph0">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF" scope="external" class="- topic/xref " format="html"&gt;</data>
         <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="final" id="2">
@@ -2232,12 +2232,12 @@ L2RvY3MvZW4vaW1hZ2VzL3BsdXMucG5nIiwiaHJlZiI6Ii4uL2ltYWdlcy9wbHVzLnBuZyJ9</mda:me
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;xref href="https://github.com/rmraya/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph0">&lt;xref href="https://github.com/maxprograms-com/OpenXLIFF/tree/master/src/com/maxprograms/converters/json#readme" scope="external" class="- topic/xref " format="html"&gt;</data>
         <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="final" id="14">
-        <source xml:space="preserve">Information on configuration files for the JSON filter is available at <ph id="ph0"/>https://github.com/rmraya/OpenXLIFF<ph id="ph1"/></source>
-        <target xml:space="preserve">En <ph id="ph0"/>https://github.com/rmraya/OpenXLIFF<ph id="ph1"/> hay información sobre los archivos de configuración para el filtro JSON.</target>
+        <source xml:space="preserve">Information on configuration files for the JSON filter is available at <ph id="ph0"/>https://github.com/maxprograms-com/OpenXLIFF<ph id="ph1"/></source>
+        <target xml:space="preserve">En <ph id="ph0"/>https://github.com/maxprograms-com/OpenXLIFF<ph id="ph1"/> hay información sobre los archivos de configuración para el filtro JSON.</target>
       </segment>
     </unit>
     <unit id="15">
